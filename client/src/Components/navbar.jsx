@@ -21,13 +21,13 @@ const Navbar = () => {
   }, []);
 
   return (
-    <nav className="bg-white border-b border-gray-200 shadow-sm">
+    <nav className="bg-white border-b border-gray-200 shadow-sm bg-[url(C:\Users\ersam\OneDrive\Desktop\IEEE-hackathon\IEEE-hackathon\client\public\Hackathon-img1.jpg)]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-xl font-semibold text-gray-800">
-              XYZ
+              Sanjeevani
             </Link>
           </div>
 
