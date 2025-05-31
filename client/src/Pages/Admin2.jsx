@@ -136,7 +136,7 @@ const Toast = ({ message, visible, onClose }) => {
   if (!visible) return null;
 
   return (
-    <div className="fixed bottom-4 right-4 bg-green-500 text-white px-4 py-2 rounded-md shadow-lg flex items-center">
+    <div className="fixed top-6 right-4 bg-green-500 text-white px-4 py-2 rounded-md shadow-lg flex items-center">
       <Check size={16} className="mr-2" />
       <span>{message}</span>
       <button onClick={onClose} className="ml-4 text-white hover:text-gray-200">

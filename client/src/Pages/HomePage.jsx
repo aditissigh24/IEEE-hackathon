@@ -18,7 +18,7 @@ export default function HomePage(){
                               but the majority have suffered.
                         </p>
 
-                        <button className="h-10 w-44 bg-blue-400 hover:bg-blue-600 text-white rounded mt-6">Meet Our Specialist</button>
+                        <button className="h-10 w-44 bg-blue-400 hover:bg-blue-600 text-white rounded mt-6">Contact Us</button>
 
                         <div className="flex gap-4 mt-12">
 
@@ -39,9 +39,9 @@ export default function HomePage(){
 
                   <div className="h-[100] w-[50%] rounded-xl px-[18px] pt-12 bg-[url(C:\Users\ersam\OneDrive\Desktop\IEEE-hackathon\IEEE-hackathon\client\public\ChatGPT-Doctor-Image.png)] bg-center bg-cover relative ">
 
-                        <p className="absolute flex items-center top-30 left-20 rounded bg-white text-slate h-[34px] w-36 text-center font-xl py-atuo text-slate-700">✅Regular Checkup</p>
-                        <p className="absolute flex items-center justify-center h-14 w-14 bg-white rounded-[50%] left-[380px] bottom-[520px]">🩺</p>                              
-                        <div className="absolute right-20 bottom-10 bg-gray-100 h-32 w-60 text-center text-xl">
+                        {/* <p className="absolute flex items-center top-30 left-20 rounded bg-white text-slate h-[34px] w-36 text-center font-xl py-atuo text-slate-700">✅Regular Checkup</p>
+                        <p className="absolute flex items-center justify-center h-14 w-14 bg-white rounded-[50%] left-[380px] bottom-[520px]">🩺</p>                               */}
+                        {/* <div className="absolute right-20 bottom-10 bg-gray-100 h-32 w-60 text-center text-xl">
                               
                               <p className="font-bold text-blue-500">Meet our Partners</p>
                               <div className="relative flex ">
@@ -72,9 +72,9 @@ export default function HomePage(){
                                           </div>
                                     </div>
 
-                              </div>
+                              </div> */}
                               
-                        </div>
+                        {/* </div> */}
 
                   </div>
             </div>

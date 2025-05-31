@@ -27,7 +27,7 @@ const sampleItems = [
     city: "MP",
     author: "Radiology Department",
     rating: 4.6,
-    image: "/images/clinic83.jpeg",
+    image: "https://imgs.search.brave.com/IX99o65_IT808begrGFXSwgHBzvYajK_oAwoTdJOmCI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjI4/ODIzMzA4L3Bob3Rv/L2hvc3BpdGFsLWJ1/aWxkaW5nLXdpdGgt/YmlnLXN5bWJvbGlj/LWF0LWNsb3VkeS1k/YXkuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUl6Zi1iUUpW/bFNRVVNQWXc4ck1Z/amdWeTJPRjZ3TWNG/bWN5WmNiX0lyZ1U9",
     resources: {
       beds: 120,
       ventilators: 25,
@@ -42,7 +42,7 @@ const sampleItems = [
     city: "Uttarakhand",
     author: "Wellness Center",
     rating: 4.7,
-    image: "/images/clinic83.jpeg",
+    image: "https://imgs.search.brave.com/DyJdMgURwuLsMrdKNn_kuFWRjgvbNKlZa_kWHEnvxek/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTEz/MDM4OTMxMi9waG90/by9idWlsZGluZy13/aXRoLWxhcmdlLWgt/c2lnbi1mb3ItaG9z/cGl0YWwuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPXFuNy1D/Nm9ibHFFbkdrbXNP/d0FLVmIyNXJKYjlx/QTE4OGhlQTE0VHlL/OW89",
     resources: {
       beds: 80,
       ventilators: 10,
@@ -57,7 +57,7 @@ const sampleItems = [
     city: "Maharashtra",
     author: "Emergency Department",
     rating: 4.9,
-    image: "/images/clinic83.jpeg",
+    image: "https://imgs.search.brave.com/15ZOfvT3tg7PnJOXuN0ekEQtb-9op1Bc4T_GGvm_TYU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTgy/MTcyMzA4L3Bob3Rv/L2hvc3BpdGFsLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1y/YkNVMDhrWjUtQk5W/LXlhZ09OT3BjRi1r/RmZqTFJfMzMxMEVI/VTBFR1A4PQ",
     resources: {
       beds: 60,
       ventilators: 20,
@@ -72,7 +72,7 @@ const sampleItems = [
     city: "Jammu & Kashmir",
     author: "Surgery Department",
     rating: 4.8,
-    image: "/images/clinic83.jpeg",
+    image: "https://imgs.search.brave.com/ilGQLntoq1iPVULdi6kxNhn0VRvuZKOVfRRUsL-1E4Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE3/OTMyNDgxOC9waG90/by9ob3NwaXRhbC1i/dWlsZGluZy13aXRo/LWdsYXNzLXdhbGwt/YW5kLW1pcnJvcmVk/LWJ1aWxkaW5nLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz02/UXl5S3FJaHpoUnp3/dUFLUjJyTnFJeTRH/MWJFVExPYmJJaWh0/RF94UlBrPQ",
     resources: {
       beds: 95,
       ventilators: 18,
@@ -87,7 +87,7 @@ const sampleItems = [
     city: "West Bengal",
     author: "Women's Health Department",
     rating: 4.7,
-    image: "/images/clinic83.jpeg",
+    image: "https://imgs.search.brave.com/zWf18YnFgVF6BAYI8cwNAsFA79TB-q2fNwoP-kqiAlQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ2/MTYwODUwOC9waG90/by9tYWxlLWFuZC1m/ZW1hbGUtaGVhbHRo/Y2FyZS1wcm9mZXNz/aW9uYWwtd2Fsa2lu/Zy1vbi1icmlkZ2Ut/bGVhZGluZy10b3dh/cmRzLWhvc3BpdGFs/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1mQWlHVkVqcFJK/bzJSTzlhS0xJR0Zq/dmZXSFVzUXdVV1pR/V1MzMDBCdGVRPQ",
     resources: {
       beds: 75,
       ventilators: 8,
